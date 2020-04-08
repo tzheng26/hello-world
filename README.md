@@ -1,5 +1,7 @@
 # hello-world
-studying github
 Self introduction
-new programmer
-keep learning
+
+I'm a new programmer who is currently learning a lot of things.
+
+Keep learning!
+
